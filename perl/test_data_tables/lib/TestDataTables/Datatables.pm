@@ -12,7 +12,7 @@ sub table {
 
 	my $dt = new jQuery::DataTables( cgi => $c, dbh => $c->app->dbh );
 my $res = $dt->getTableData( 'SELECT DISTINCT id, col_int, col_text, col_real FROM datatable', [qw{id col_int col_text col_real}] );
-ddx($res);
+#ddx($res);
 	$c->render( json => $res );
 
 } ## end sub table
