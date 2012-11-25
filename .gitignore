@@ -1,0 +1,10 @@
+a.
+a
+*.log
+*.bak
+*.~
+putty
+rsync
+*.db
+*.db-journal
+
