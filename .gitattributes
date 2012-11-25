@@ -1,0 +1,26 @@
+*.html	text eol=lf
+*.htm	text eol=lf
+*.js	text eol=lf
+
+*.pl	text eol=lf
+*.pm	text eol=lf
+*.t		text eol=lf
+
+
+*.txt	text eol=lf
+*.md
+
+*.conf	text eol=lf
+*.ini	text eol=lf
+
+*.sh	text eol=lf
+*.bat	text eol=crlf
+
+README 	text eol=lf
+MYMETA.yml 	text eol=lf
+Makefile 	text eol=lf
+MANIFEST 	text eol=lf
+Changes 	text eol=lf
+LICENSE 	text eol=lf
+
+
